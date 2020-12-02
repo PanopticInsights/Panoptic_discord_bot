@@ -1,0 +1,3 @@
+discord.py==1.4.1
+gsvi==0.2
+matplotlib==3.3.1

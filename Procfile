@@ -1,0 +1,1 @@
+worker: panoptic_bot.py
